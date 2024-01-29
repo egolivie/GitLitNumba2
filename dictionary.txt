@@ -1,0 +1,12 @@
+German -> English
+  
+Flughafen -> Airport
+Hauptstrasse -> Main Street
+Brot -> Bread
+Konditionierung -> Conditioning
+Biergarten -> Beer Garden
+Schloss -> Castle
+Wettbewerbsfähig -> Competitive
+Mehlhase -> Flour Bunny
+Gebaeck -> Pastries
+Apfelkuchen -> Apple Cake
