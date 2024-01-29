@@ -5,8 +5,12 @@ Hauptstrasse -> Main Street
 Brot -> Bread
 Konditionierung -> Conditioning
 Biergarten -> Beer Garden
-Schloss -> Castle
+Schloss -> Lock (available)
 Wettbewerbsfähig -> Competitive
 Mehlhase -> Flour Bunny
 Gebaeck -> Pastries
 Apfelkuchen -> Apple Cake
+Hund - Dog (available)
+Porsche - Car (available)
+BMW - Car (available)
+Bratwurst - Sausage (available)
